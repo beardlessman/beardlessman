@@ -1,14 +1,16 @@
----
-layout: layouts/home.njk
+--- 
+layout: layouts/home.njk 
 eleventyNavigation:
-  key: Дмитрий Мунгалов
+  key: Обо мне
   order: 1
 ---
 
-<h1>Latest Posts</h1>
-
-{% set postslist = collections.posts | head(-10) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
-
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<div class="card">
+  <img class="card__image" src="/img/me.jpg"/>
+  <div class="card__content">
+    <p>Ѳронтенд-разработчик</p>
+    <p>Живу в Томске, работаю в <s><a target="_blank" href="https://tdsgn.ru/">Студии Т</a></s>&nbsp;→ <a target="_blank" href="https://magdv.com">MAG Dev</a></p>
+    <p>Краду идеи у <a target="_blank" href="https://andrew-r.ru/">Андрея</a>, <a target="_blank" href="https://bespoyasov.ru/projects/tzlvt/">Саши</a>, <a target="_blank" href="https://marinintim.com/2019/indieweb/">Тима</a></p>
+    <p>Связаться со мной можно в <a href="http://t.me/beard_less" rel="me">Телеграме</a> или в <a href="/contacts">соцсетях</a></p>
+  </div>
+</div>
