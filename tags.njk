@@ -12,12 +12,12 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/home.njk
 renderData:
-  title: Tagged “{{ tag }}”
+  title: Посты с меткой “{{ tag }}”
 permalink: /tags/{{ tag }}/
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Посты с меткой “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-<p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+<p><a href="{{ '/tags/' | url }}">Все метки</a></p>
