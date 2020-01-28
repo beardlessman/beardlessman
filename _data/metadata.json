@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Дмитрий Мунгалов",
+  "url": "https://beardless.online/",
+  "description": "Ѳронтенд-разработчик, Томск",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Ѳронтенд-разработчик, Томск",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://beardless.online/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Дмитрий Мунгалов",
+    "email": "d.mungalov@gmail.com"
   }
 }
