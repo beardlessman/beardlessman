@@ -14,7 +14,8 @@ eleventyNavigation:
 </p>
 <p>
   Социальные сети:
-    <a target="_blank" href="https://github.com/beardlessman" rel="me">Github</a >,
-    <a target="_blank" href="https://twitter.com/beard_less" rel="me">Twitter</a >,
-    <a target="_blank" href="https://www.instagram.com/beard__less/" rel="me">Instagram</a >
+    <a target="_blank" href="https://github.com/beardlessman" rel="me">Github</a>,
+    <a target="_blank" href="https://twitter.com/beard_less" rel="me">Twitter</a>,
+    <a target="_blank" href="https://www.instagram.com/beard__less/" rel="me">Instagram</a>,
+    <a target="_blank" href="https://vk.com/beard_less" rel="me">VK</a>
 </p>
