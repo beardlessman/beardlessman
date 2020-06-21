@@ -2,9 +2,6 @@
 title: Здравствуй, дневничок
 description: Немного о том, что происходило в личной и рабочей жизни.
 date: 2020-01-17
-tags:
-  - diary
-  - private
 layout: layouts/post.njk
 ---
 
