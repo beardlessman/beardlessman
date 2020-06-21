@@ -14,7 +14,7 @@ jobs:
       # so your workflow can access it
       - uses: actions/checkout@master
 
-      Build your static website with Eleventy
+      # Build your static website with Eleventy
       - name: Build Eleventy
         uses: TartanLlama/actions-eleventy@master
         with:
