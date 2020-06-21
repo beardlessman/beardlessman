@@ -1,8 +1,6 @@
 ---
 title: Восстановил сервак
 date: 2020-06-20
-tags:
-- notes
 layout: layouts/post.njk
 ---
 Общее время 1 час 30 минут
