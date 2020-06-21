@@ -1,8 +1,0 @@
----
-title: local test
-date: 2020-06-21
-tags:
-- notes
-layout: layouts/post.njk
----
-local test
