@@ -1,6 +1,6 @@
 ---
 title: Github Actions
-date: 2020-06-21
+date: 2020-06-21T21:00
 layout: layouts/post.njk
 ---
 
