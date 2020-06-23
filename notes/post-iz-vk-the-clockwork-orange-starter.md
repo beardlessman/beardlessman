@@ -1,5 +1,5 @@
 ---
-title: "Пост из VK: The 'Clockwork Orange' starter"
+title: "Пост из VK: The 'Clockwork Orange' starter pack"
 date: 2016-04-05T18:02:57+06:00
 tags:
 - from vk
