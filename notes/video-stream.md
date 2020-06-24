@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 (надо нажать "Разрешить")
 
-<video playsinline autoplay id="target"></video>
+<video playsinline autoplay id="target" style="max-width: 100%;"></video>
 
 <script>
 (() => {
