@@ -166,15 +166,7 @@ pre {
 
 @media screen and (max-width: 480px) {
   .search {
-    margin: 1rem;
-  }
-
-  .search #ya-site-form0 {
-    max-width: 100%;
-  }
-
-  .search .ya-site-form__search-wrap {
-    padding-right: 0;
+    display: none;
   }
 }
 
@@ -295,8 +287,8 @@ a[href].direct-link:focus:visited,
 
 .page__footer {
   flex: none;
-  padding: 0 1rem;
-  margin: 1rem 0;
+  padding: 1rem;
+  border-top: 1px dashed var(--lightgray);
 }
 
 .page__content {
