@@ -163,7 +163,6 @@ pre {
   padding: 0;
 }
 
-
 @media screen and (max-width: 480px) {
   .search {
     display: none;
@@ -297,4 +296,37 @@ a[href].direct-link:focus:visited,
 
 .page__content img {
   max-width: 100%;
+}
+
+/* Navigation */
+
+.pages__list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.pages__link {
+  display: block;
+  padding: 15px 20px;
+  color: var(--darkgray);
+  text-decoration: none;
+}
+
+.pages__link:hover,
+.pages__link:focus {
+  background-color: var(--red);
+  color: var(--white) !important;
+}
+
+.pages__link:focus {
+  outline: none;
+}
+
+.pages__link[aria-current] {
+  pointer-events: none;
+  background-color: var(--red);
+  color: var(--white) !important;
 }

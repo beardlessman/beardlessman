@@ -1,12 +1,16 @@
 ---
 layout: layouts/home.njk
-permalink: /notes/
 eleventyNavigation:
   key: Заметки
   order: 2
+permalink: "{% if pagination.pageNumber > 0 %}notes/page/{{ pagination.pageNumber + 1 }}/index.html{% else %}notes/index.html{% endif %}"
+pagination:
+  data: collections.notes
+  size: 20
+  reverse: true
 ---
 
 <h1>Заметки</h1>
 
 {% set postslist = collections.notes %}
-{% include "postslist.njk" %}
+{% include "noteslist.njk" %}
