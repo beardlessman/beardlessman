@@ -3,7 +3,7 @@ title: 'Rainbow — Bent Out Of Shape'
 date: 2021-02-17
 layout: layouts/post.njk
 tags:
-  - mwe
+  - MWE
   - music
 ---
 

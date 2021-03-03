@@ -1,12 +1,12 @@
 ---
-title: 'Release-notes'
+title: 'Release notes'
 date: 2021-03-01
 layout: layouts/post.njk
 tags:
   - 'release notes'
 ---
 
-![](https://i.ibb.co/LxFgSYR/file-6.jpg)
+![](https://i.ibb.co/gV3L25x/image.png)
 
 Я настроил публикацию телеграм-постов прямо себе на сайт. Следите за руками: 
 

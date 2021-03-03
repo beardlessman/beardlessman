@@ -3,7 +3,7 @@ title: 'Сплин — Вира и майна'
 date: 2021-03-03
 layout: layouts/post.njk
 tags:
-  - mwe
+  - MWE
   - music
 ---
 

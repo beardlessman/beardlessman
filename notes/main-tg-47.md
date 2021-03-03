@@ -3,7 +3,7 @@ title: 'GUF — Город дорог'
 date: 2021-02-22
 layout: layouts/post.njk
 tags:
-  - mwe
+  - MWE
   - music
 ---
 
