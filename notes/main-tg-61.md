@@ -2,6 +2,9 @@
 title: 'Сплин — Вира и майна'
 date: 2021-03-03
 layout: layouts/post.njk
+tags:
+  - mwe
+  - music
 ---
 
 ![](https://i.ibb.co/3cx51KX/file-17.jpg)
@@ -11,5 +14,5 @@ layout: layouts/post.njk
 
 Мы тоже заебались, Саша, мы тоже.
 
-#MWE
+https://t.me/beardless_online/61
 
