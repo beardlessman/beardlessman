@@ -2,8 +2,6 @@
 title: Hello, world!
 description: Hello world
 date: 2020-01-10
-tags:
-  - hello-world
 layout: layouts/post.njk
 ---
 Вдохновившись [Индивебом Тима Маринина](https://marinintim.com/2019/indieweb/) решил запилить свой сайт. Зачем?

@@ -4,6 +4,7 @@ date: 2021-02-03
 layout: layouts/post.njk
 tags:
   - MWE
+  - music
 ---
 
 ![](https://i.ibb.co/qy0nhh7/image.png)

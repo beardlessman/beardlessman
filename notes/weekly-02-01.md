@@ -3,7 +3,7 @@ title: Отчет за неделю
 description: Отчет за неделю
 date: 2020-02-01T15:00
 tags:
-  - weekly-report
+  - 'release notes'
 layout: layouts/post.njk
 ---
 
