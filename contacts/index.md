@@ -1,6 +1,5 @@
 ---
 layout: layouts/post.njk
-title: Контакты
 templateClass: tmpl-post
 eleventyNavigation:
   key: Контакты

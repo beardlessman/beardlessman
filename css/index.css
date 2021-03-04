@@ -194,6 +194,37 @@ pre {
   font-weight: 700;
 }
 
+/* notes list */
+.noteslist {
+  list-style: none;
+  padding: 0;
+}
+.noteslist-item {
+  margin-bottom: 5em;
+}
+.noteslist-date,
+.noteslist-item:before {
+  font-size: 0.8125em; /* 13px /16 */
+  color: var(--darkgray);
+}
+.noteslist-date {
+  word-spacing: -0.5px;
+}
+.noteslist-link {
+  display: inline-block;
+  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+}
+.noteslist-item-active .noteslist-link {
+  font-weight: bold;
+}
+.tmpl-home .noteslist-link {
+  font-size: 2em;
+  font-weight: 700;
+}
+.noteslist-content {
+  padding: 0.25em 0.1875em;
+}
+
 /* Tags */
 .tag {
   display: inline-block;
