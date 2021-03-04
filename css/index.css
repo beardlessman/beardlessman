@@ -213,6 +213,7 @@ pre {
 .noteslist-link {
   display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  text-decoration: none;
 }
 .noteslist-item-active .noteslist-link {
   font-weight: bold;
