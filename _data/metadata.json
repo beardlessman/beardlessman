@@ -1,12 +1,12 @@
 {
   "title": "Дмитрий Мунгалов",
-  "url": "https://beardless.online/",
+  "url": "https://beardless.live/",
   "description": "Ѳронтенд-разработчик, Томск",
   "feed": {
     "subtitle": "Ѳронтенд-разработчик, Томск",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://beardless.online/"
+    "id": "https://beardless.live/"
   },
   "author": {
     "name": "Дмитрий Мунгалов",

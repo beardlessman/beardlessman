@@ -7,4 +7,4 @@ layout: layouts/post.njk
 ---
 Душнота на ночь глядя. 
 
-https://beardless.online/posts/music-services/
+https://beardless.live/posts/music-services/
