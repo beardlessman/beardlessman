@@ -9,5 +9,5 @@ layout: layouts/post.njk
 ![](https://i.ibb.co/hf6kdpR/image.png)
 ![](https://i.ibb.co/gyj3qVV/image.png)
 
-https://t.me/beardless_online/54
+https://t.me/beardless_live/54
 

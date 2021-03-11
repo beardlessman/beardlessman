@@ -6,4 +6,4 @@ layout: layouts/post.njk
 
 Я пока ленюсь запилить/восстановить норм инструмент для публикации заметок в блог beardless.live, а в твиттер не всякое хочется писать. Поэтому вот
 
-https://t.me/beardless_online/7
+https://t.me/beardless_live/7

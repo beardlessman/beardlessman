@@ -15,5 +15,5 @@ tags:
 
 Это были не Rainbow.
 
-https://t.me/beardless_online/46
+https://t.me/beardless_live/46
 

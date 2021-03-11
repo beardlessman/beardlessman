@@ -14,5 +14,5 @@ tags:
 
 Мы тоже заебались, Саша, мы тоже.
 
-https://t.me/beardless_online/61
+https://t.me/beardless_live/61
 

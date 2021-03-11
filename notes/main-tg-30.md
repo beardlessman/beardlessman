@@ -15,4 +15,4 @@ tags:
 
 Мне не нравится, не умею такое слушать. Закинул одну песню в [плейлист](https://open.spotify.com/playlist/3B3nSfdianl27OVbasLV3R?si=C4BI2dyoRHCMzQOn0WWH3Q), может вернусь позже.
 
-https://t.me/beardless_online/30
+https://t.me/beardless_live/30

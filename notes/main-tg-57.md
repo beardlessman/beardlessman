@@ -6,7 +6,7 @@ layout: layouts/post.njk
 
 ![](https://i.ibb.co/bNd4fxp/image.png)
 
-Я нашел мем про тот альбом [Cocteau Twins](https://t.me/beardless_online/48), который более другой
+Я нашел мем про тот альбом [Cocteau Twins](https://t.me/beardless_live/48), который более другой
 
-https://t.me/beardless_online/57
+https://t.me/beardless_live/57
 

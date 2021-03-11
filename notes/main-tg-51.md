@@ -8,5 +8,5 @@ layout: layouts/post.njk
 
 В семье не без урода
 
-https://t.me/beardless_online/51
+https://t.me/beardless_live/51
 

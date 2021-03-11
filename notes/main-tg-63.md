@@ -11,4 +11,4 @@ layout: layouts/post.njk
 
 «Иван Васильевич, Николай Иванович и я. Только что из пивной»
 
-https://t.me/beardless_online/63
+https://t.me/beardless_live/63

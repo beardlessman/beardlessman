@@ -10,4 +10,4 @@ layout: layouts/post.njk
 
 Функционально ведь тоже самое. Надо предложить.
 
-https://t.me/beardless_online/42
+https://t.me/beardless_live/42

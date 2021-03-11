@@ -12,5 +12,5 @@ tags:
 
 Но в каждом правиле найдется исключение.
 
-https://t.me/beardless_online/58
+https://t.me/beardless_live/58
 

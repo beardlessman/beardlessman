@@ -17,4 +17,4 @@ tags:
 
 Фиты с Кендриком Ламаром и Стиви Уандером это просто отвал всего. 
 
-https://t.me/beardless_online/26
+https://t.me/beardless_live/26

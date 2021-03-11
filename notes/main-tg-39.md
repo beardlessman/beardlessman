@@ -15,4 +15,4 @@ tags:
 
 Кайфно.
 
-https://t.me/beardless_online/39
+https://t.me/beardless_live/39

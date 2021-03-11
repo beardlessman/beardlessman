@@ -34,4 +34,4 @@ layout: layouts/post.njk
  ⁃ UX Noname
  ⁃ Greatmatis
 
-https://t.me/beardless_online/14
+https://t.me/beardless_live/14

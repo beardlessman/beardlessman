@@ -13,4 +13,4 @@ tags:
 
 Для вдохновения можно взять хотя бы [топ Rolling Stones](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/marvin-gaye-whats-going-on-4-1063232/) или [путеводитель по трип-хопу](https://disgustingmen.com/music/ten-albums-to-love-trip-hop/)
 
-https://t.me/beardless_online/25
+https://t.me/beardless_live/25

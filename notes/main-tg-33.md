@@ -15,4 +15,4 @@ tags:
 
 Посмотрим, что там дальше.
 
-https://t.me/beardless_online/33
+https://t.me/beardless_live/33

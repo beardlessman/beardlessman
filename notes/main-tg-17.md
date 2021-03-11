@@ -29,4 +29,4 @@ layout: layouts/post.njk
 
 Не такой уж плохой год!
 
-https://t.me/beardless_online/17
+https://t.me/beardless_live/17

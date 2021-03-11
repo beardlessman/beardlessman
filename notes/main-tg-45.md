@@ -12,4 +12,4 @@ layout: layouts/post.njk
 
 Захватывающая история.
 
-https://t.me/beardless_online/45
+https://t.me/beardless_live/45

@@ -13,4 +13,4 @@ tags:
 
 Жиги-жиги, кечпелек!
 
-https://t.me/beardless_online/38
+https://t.me/beardless_live/38

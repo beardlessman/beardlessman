@@ -15,4 +15,4 @@ tags:
 
 Под такую музыку хочется достигать американскую мечту. Ну или водки выпить.
 
-https://t.me/beardless_online/41
+https://t.me/beardless_live/41

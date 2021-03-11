@@ -12,4 +12,4 @@ layout: layouts/post.njk
 
 Теперь надо применить знания на своем проекте. Это сложно и страшно.
 
-https://t.me/beardless_online/12
+https://t.me/beardless_live/12

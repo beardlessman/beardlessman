@@ -13,4 +13,4 @@ tags:
 
 10/10 конечно, но можно не надо
 
-https://t.me/beardless_online/37
+https://t.me/beardless_live/37

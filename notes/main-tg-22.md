@@ -10,4 +10,4 @@ layout: layouts/post.njk
 
 Ну, фильм по крайней мере красивый.
 
-https://t.me/beardless_online/22
+https://t.me/beardless_live/22

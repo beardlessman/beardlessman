@@ -14,5 +14,5 @@ tags:
 
 ![](https://i.ibb.co/MR2Z9PX/image.png)
 
-https://t.me/beardless_online/52
+https://t.me/beardless_live/52
 

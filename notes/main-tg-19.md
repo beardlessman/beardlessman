@@ -10,4 +10,4 @@ layout: layouts/post.njk
 
 Так и делает Дуолинго.
 
-https://t.me/beardless_online/19
+https://t.me/beardless_live/19

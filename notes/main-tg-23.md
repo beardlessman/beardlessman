@@ -12,4 +12,4 @@ layout: layouts/post.njk
 
 Только сегодня я понял, насколько смелы белорусы.
 
-https://t.me/beardless_online/23
+https://t.me/beardless_live/23

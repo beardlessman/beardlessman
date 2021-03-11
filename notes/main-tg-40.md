@@ -6,4 +6,4 @@ layout: layouts/post.njk
 
 Я пока не разобрался, всего пару выпусков навернул, но подкаст «Один дома» — это охуенно.
 
-https://t.me/beardless_online/40
+https://t.me/beardless_live/40

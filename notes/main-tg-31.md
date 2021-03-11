@@ -13,4 +13,4 @@ tags:
 
 Наверное, охуенный альбом.
 
-https://t.me/beardless_online/31
+https://t.me/beardless_live/31

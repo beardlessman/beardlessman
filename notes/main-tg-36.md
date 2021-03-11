@@ -15,4 +15,4 @@ tags:
 
 Альбом переслушивать не буду, но рад что познакомился. 
 
-https://t.me/beardless_online/36
+https://t.me/beardless_live/36

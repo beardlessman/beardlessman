@@ -16,4 +16,4 @@ layout: layouts/post.njk
 
 Что я люблю так же, как Уве свой «Сааб»? Наверное, ноутбуки и наушники.
 
-https://t.me/beardless_online/9
+https://t.me/beardless_live/9
