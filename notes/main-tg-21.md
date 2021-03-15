@@ -2,6 +2,8 @@
 title: 'Какое кощунство'
 date: 2021-01-20
 layout: layouts/post.njk
+tags: 
+  - books
 ---
 
 ![](https://i.ibb.co/hmd0Qcq/image.png)
