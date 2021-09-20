@@ -9,7 +9,7 @@ eleventyNavigation:
 <p>
   Написать: 
   <a href="mailto:d.mungalov@gmail.com" rel="me">d.mungalov@gmail.com</a>, 
-  <a href="http://t.me/beard_less" rel="me">Telegram</a>
+  <a href="https://t.me/iambeardless" rel="me">Telegram</a>
 </p>
 <p>
   Социальные сети:
