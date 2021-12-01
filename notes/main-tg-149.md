@@ -1,0 +1,10 @@
+---
+title: 'Photo'
+date: 2021-12-01
+layout: layouts/post.njk
+---
+
+![](https://i.ibb.co/L8kJ5j6/file-74.jpg)
+
+
+https://t.me/beardless_live/149
