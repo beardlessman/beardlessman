@@ -7,4 +7,6 @@ layout: layouts/post.njk
 
 https://jdan.github.io/98.css/
 
+И набор компонентов в фигме https://www.figma.com/community/file/769712367097929855
+
 

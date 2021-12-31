@@ -5,7 +5,6 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/s2WsyJH/file-72.jpg)
-UX в поликлинике
 
 «Просто спросить» — кайф
 

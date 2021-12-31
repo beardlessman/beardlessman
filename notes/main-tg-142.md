@@ -5,7 +5,6 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/g7ptbtT/file-68.jpg)
-Ты ебанутый?
 
 Приобрел свой первый nft-токен (пикрелейтед). Планирую сменить никнейм на PostmodernСat#283
 

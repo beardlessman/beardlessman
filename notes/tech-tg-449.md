@@ -3,7 +3,6 @@ title: 'Что есть React — Дмитрий Елисеев'
 date: 2021-04-01
 layout: layouts/post.njk
 ---
-Что есть React — Дмитрий Елисеев
 
 https://deworker.pro/edu/series/what-is-react
 

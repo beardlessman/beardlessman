@@ -1,5 +1,5 @@
 ---
-title: 'Слегка орнул с кода '
+title: 'Слегка орнул с кода'
 date: 2021-11-15
 layout: layouts/post.njk
 ---

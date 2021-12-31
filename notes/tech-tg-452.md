@@ -3,7 +3,6 @@ title: 'Чистая архитектура на фронте'
 date: 2021-07-19
 layout: layouts/post.njk
 ---
-Чистая архитектура на фронте
 
 Невероятный доклад Саши Беспоясова — https://github.com/bespoyasov/frontend-clean-architecture
 
