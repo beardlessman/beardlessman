@@ -5,6 +5,6 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/PWdPh9B/file-45.jpg)
-Анапа в мае
+![](https://i.ibb.co/CvjRr76/file-46.jpg)
 
 https://t.me/beardless_live/104

@@ -5,6 +5,5 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/d7CCxnH/file-32.jpg)
-Раз
 
 https://t.me/beardless_live/82

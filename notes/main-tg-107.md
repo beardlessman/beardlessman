@@ -5,7 +5,6 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/tXHTLjZ/file-48.jpg)
-Тем временем в Томске завершился первый день турнира
 
 Сделал по этому случаю мэм
 

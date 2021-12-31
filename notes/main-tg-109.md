@@ -5,7 +5,6 @@ layout: layouts/post.njk
 ---
 
 ![](https://i.ibb.co/XWqbK96/file-50.jpg)
-Немного страшно, но в целом понимаю.
 
 Чем еще в Омске заняться.
 
