@@ -4,7 +4,7 @@ date: 2022-01-02
 layout: layouts/post.njk
 ---
 
-![](/img/foosballAgACAgIAAx0CQ1zwEwACAcph0Wiba9zbZvZPQR2jmn1QaW-EjgACo7QxGwrGiUoJBMLwPDA4gwEAAwIAA3MAAyME.jpg
+![](/img/AgACAgIAAx0CQ1zwEwACAcph0Wiba9zbZvZPQR2jmn1QaW-EjgACo7QxGwrGiUoJBMLwPDA4gwEAAwIAA3MAAyME.jpg
 )
 Опять трахаюсь с Integromat
 
