@@ -1,3 +1,1 @@
-Я наконец-то завел себе [страничку](https://beardless.live/). Может быть даже что-то буду регулярно писать в блог.
-
-[Работает на шаблоне для 11ty](https://github.com/11ty/eleventy-base-blog)
+Hello there! My name is Dima and I work as a frontend developer. Here is [my CV]([https://beardless.live/](https://docs.google.com/document/d/1oMhq343SFx5aNz9MSyiIy_q-oNwVsaC1M6GV_ae0tUg/edit?usp=sharing))
